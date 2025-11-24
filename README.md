@@ -13,10 +13,8 @@ I’m Md Anik Rahman, a Full-Stack Laravel developer building SaaS & CMS apps fo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Webmin](https://img.shields.io/badge/Webmin-0071C5?style=flat-square&logo=webmin&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-2F5F95?style=flat-square&logo=composer&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 
 
 ## 🌱 Currently Working On
