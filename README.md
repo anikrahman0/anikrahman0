@@ -24,6 +24,7 @@ I’m Md Anik Rahman, a Full-Stack Laravel developer building SaaS & CMS apps fo
 - Optimizing **news portal projects** for high traffic
 - Exploring **advanced React & Next JS features**
 - Learning **Docker, Cloud Storage (S3, DigitalOcean), and GitOps**
+- Server Administration & Management
 
 ## 📚 I’m Currently Learning
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
