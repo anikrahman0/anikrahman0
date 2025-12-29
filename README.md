@@ -1,7 +1,10 @@
 # Hi, There 👋
 
 ## 👨‍💻 About Me
-I’m Md Anik Rahman, a Full-Stack Laravel developer building SaaS & CMS apps for high-traffic websites.
+Hello, I’m Anik Rahman, a Senior Software Engineer.
+I work mainly with Laravel-based systems, where I design and build scalable, modular business applications.
+
+My experience includes custom ERP-like systems, CMS platforms, SaaS products, and eCommerce solutions, often handling large datasets and real-time users.
 
 ## 🛠 Tools & Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
