@@ -2,7 +2,14 @@
 
 ## 👨‍💻 About Me
 Hello, I’m Anik Rahman, a Senior Software Engineer.
-I work mainly with Laravel-based systems, where I design and build scalable, modular business applications.My experience includes custom ERP-like systems, CMS platforms, SaaS products, and eCommerce solutions, often handling large datasets and real-time users.
+
+I work mainly with Laravel-based systems, designing and building scalable, modular business applications.
+
+I have experience building custom ERP-like systems, CMS platforms, SaaS products, and eCommerce solutions, often handling large datasets and real-time users.
+
+I also develop open-source packages and tools, contribute to the community, and have knowledge in ethical hacking and application penetration testing.
+
+I’ve also collaborated with third-party clients on diverse projects, covering both Upwork and local clients.
 
 ## 🛠 Tools & Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -29,4 +36,6 @@ I work mainly with Laravel-based systems, where I design and build scalable, mod
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Server Management](https://img.shields.io/badge/Server_Management-4A90E2?style=flat-square&logo=linux&logoColor=white)
+
 
