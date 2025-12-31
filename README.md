@@ -2,8 +2,11 @@
 
 ## 👨‍💻 About Me
 Hello, I’m Anik Rahman, a Senior Software Engineer.
+
 I work mainly with Laravel-based systems, designing and building scalable, modular business applications. I have experience building custom ERP-like systems, CMS platforms, SaaS products, and eCommerce solutions, often handling large datasets and real-time users.
+
 I also develop open-source packages and tools, contribute to the community, and have knowledge in ethical hacking and application penetration testing.
+
 I’ve also collaborated with third-party clients on diverse projects, covering both Upwork and local clients.
 
 ## 🛠 Tools & Technologies
